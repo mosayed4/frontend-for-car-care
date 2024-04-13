@@ -221,6 +221,7 @@ a:focus{
 	height: 14px !important;
 	pointer-events: none;
 	z-index:1000000;
+	
 }
 
 #ball{
